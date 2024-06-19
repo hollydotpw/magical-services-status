@@ -1,0 +1,26 @@
+owner: hollydotpw
+repo: magical-services-status
+
+sites:
+  - name: Loyal
+    url: https://loyal.sh
+  - name: Bun Loyal
+    url: https://bun.loyal.sh
+  - name: Magical
+    url: https://magical.sh
+  - name: Magical Forgejo 
+    url: https://git.magical.sh
+  - name: Holly
+    url: https://holly.pw
+
+status-website:
+  cname: status.magical.sh
+  name: Magical
+  introTitle: "Magical' Services Status"
+  introMessage: Welcome to the enchanting realm of Magical services, where we bring you the latest updates and ensure your journey is filled with wonder and reliability.
+
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
