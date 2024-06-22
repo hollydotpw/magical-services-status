@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 714,
-    "timeWeek": 764,
-    "timeMonth": 764,
-    "timeYear": 764,
+    "time": 746,
+    "timeDay": 677,
+    "timeWeek": 746,
+    "timeMonth": 746,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1676,
-    "timeDay": 3160,
-    "timeWeek": 1676,
-    "timeMonth": 1676,
-    "timeYear": 1676,
+    "time": 1561,
+    "timeDay": 1102,
+    "timeWeek": 1561,
+    "timeMonth": 1561,
+    "timeYear": 1561,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 275,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "time": 226,
+    "timeDay": 134,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +58,20 @@
     "url": "https://git.magical.sh",
     "icon": "https://icons.duckduckgo.com/ip3/git.magical.sh.ico",
     "slug": "magical-forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 562,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
-    "dailyMinutesDown": {}
+    "time": 609,
+    "timeDay": 733,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
+    "dailyMinutesDown": {
+      "2024-06-22": 0
+    }
   },
   {
     "name": "Holly",
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 169,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 163,
+    "timeDay": 275,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   }
 ]
