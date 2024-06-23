@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.magical.sh.ico",
     "slug": "magical-forgejo",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.84%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 609,
     "timeDay": 733,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-23": 6,
+      "2024-06-22": 50
     }
   },
   {
