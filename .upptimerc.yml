@@ -6,21 +6,25 @@ sites:
     url: https://loyal.sh
   - name: Bun Loyal
     url: https://bun.loyal.sh
-  - name: Magical
-    url: https://magical.sh
-  - name: Magical Forgejo 
-    url: https://git.magical.sh
   - name: Holly
     url: https://holly.pw
+  - name: Magical
+    url: https://magical.sh
+  - name: Magical Forgejo
+    url: https://forgejo.magical.sh
+  - name: Magical Excalidraw
+    url: https://excalidraw.magical.sh
 
 status-website:
+  theme: dark
   cname: status.magical.sh
   name: Magical
-  introTitle: "Magical' Services Status"
+  introTitle: Magical Services Status
   introMessage: Welcome to the enchanting realm of Magical services, where we bring you the latest updates and ensure your journey is filled with wonder and reliability.
+  css: "footer { display: none; }"
 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Magical
+      href: https://magical.sh
