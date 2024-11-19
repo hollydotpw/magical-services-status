@@ -42,12 +42,12 @@
     "url": "https://bun.loyal.sh",
     "icon": "https://icons.duckduckgo.com/ip3/bun.loyal.sh.ico",
     "slug": "bun-loyal",
-    "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "86.38%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "86.37%",
     "uptimeWeek": "80.62%",
-    "uptimeMonth": "93.79%",
-    "uptimeYear": "98.76%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "98.77%",
     "time": 10238,
     "timeDay": 14019,
     "timeWeek": 15461,
@@ -63,7 +63,7 @@
       "2024-11-13": 248,
       "2024-11-12": 356,
       "2024-11-11": 350,
-      "2024-11-10": 158
+      "2024-11-10": 139
     }
   },
   {
